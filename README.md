@@ -4,6 +4,10 @@
 
 > 🖥️ **This is an interactive product prototype.** Network telemetry is simulated so the full experience can be demonstrated without physical 5G infrastructure. The Claude-powered features (configuration generation and the AI assistant) make real API calls. The ML models are presented as reference implementations of the production architecture.
 
+![Operations dashboard — live KPIs, latency and throughput charts, site health, and alert feed](docs/operations-dashboard.png)
+
+![AI/ML Engine during a detected anomaly — failure probability at 46%, degraded features flagged, RL-recommended remediations](docs/ml-engine.png)
+
 ---
 
 ## The Product
