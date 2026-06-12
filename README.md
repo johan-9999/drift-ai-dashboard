@@ -80,4 +80,24 @@ drift-ai-dashboard/src/
 
 ---
 
+## 🤝 Seeking Technical Co-Founder
+
+I'm **Johan Contreras Romero**, founder of Drift AI. I built this prototype to prove out the product vision — now I'm looking for a technical co-founder to build the real thing with me.
+
+**The opportunity.** Private 5G is being deployed in factories, ports, hospitals, and logistics hubs faster than anyone can hire people to operate it. Every one of those networks needs a NOC it can't afford. Drift AI's bet is that an AI engine plus a lean operations team replaces that NOC — and this prototype shows what the product looks like when it works.
+
+**Who I'm looking for.** Someone who can own everything between this prototype and a production system running on real networks at scale:
+
+- **5G / telecom networking** — hands-on experience with RAN and 5G core (3GPP interfaces, network slicing, vendor ecosystems like Ericsson/Nokia/Celona, or open-source cores like Open5GS/free5GC). You know how to get real telemetry out of real radios.
+- **Machine learning in production** — you've trained and shipped models on live operational data, not just notebooks: streaming feature pipelines, model serving at the edge, retraining loops, and knowing when a simple model beats a clever one.
+- **Scalable backend engineering** — telemetry ingestion at volume, time-series infrastructure, APIs, and the security posture enterprise/industrial customers demand.
+
+You don't need to be deep in all three — exceptional in one, conversant in the others, and hungry to learn is exactly right.
+
+**What you'd get.** A true co-founder seat: meaningful equity, full ownership of the technical roadmap, and a working product vision with demonstrated UX to build against (see the roadmap above — it's effectively your job description).
+
+**Interested?** Reach out through [my GitHub profile](https://github.com/johan-9999) or open an issue on this repo — clone the prototype, poke at it, and tell me what you'd build differently. That conversation is the best interview I can think of.
+
+---
+
 *Prototype built with [Claude Code](https://claude.com/claude-code).*
