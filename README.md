@@ -100,4 +100,13 @@ You don't need to be deep in all three — exceptional in one, conversant in the
 
 ---
 
+## License
+
+© 2026 Johan Contreras Romero. **All rights reserved.** This repository is public
+for evaluation and demonstration only. It is **not** open source — you may view it,
+but copying, modifying, or reusing the code in any product or service requires
+prior written permission. See [LICENSE](LICENSE) for full terms.
+
+---
+
 *Prototype built with [Claude Code](https://claude.com/claude-code).*
