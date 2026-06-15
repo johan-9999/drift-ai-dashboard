@@ -2,6 +2,10 @@
 
 **AI-native operations for private 5G networks.** Drift AI is a working prototype of a network operations platform that pairs live telemetry monitoring with machine-learning-driven failure prediction, autonomous optimization, and a conversational AI operator assistant.
 
+### ▶️ [**Launch the live demo →**](https://johan-9999.github.io/drift-ai-dashboard/)
+
+No install needed — opens in any browser. The Operations, Automation, and ML Engine tabs are fully interactive; the two Claude-powered tabs prompt for your own [Anthropic API key](https://console.anthropic.com).
+
 > 🖥️ **This is an interactive product prototype.** Network telemetry is simulated so the full experience can be demonstrated without physical 5G infrastructure. The Claude-powered features (configuration generation and the AI assistant) make real API calls. The ML models are presented as reference implementations of the production architecture.
 
 ![Operations dashboard — live KPIs, latency and throughput charts, site health, and alert feed](docs/operations-dashboard.png)
@@ -38,6 +42,8 @@ Toggleable autonomous actions — self-healing failover, dynamic spectrum reallo
 ---
 
 ## Running It Locally
+
+> Just want to see it? Use the [**live demo**](https://johan-9999.github.io/drift-ai-dashboard/) — no install required. The steps below are only for running the code on your own machine.
 
 Requires [Node.js](https://nodejs.org) 20+.
 
